@@ -2,8 +2,11 @@
 Author: Christian Alexander
 <br />
 Purpose: Takes LC-3 commands as input, returns opcode.
+<br />
+Instructions: To use this assembler program, visit https://wchargin.com/lc3web/  (credit to William Chargin for LC-3 simulator)
+<br />
 
-This program was written in LC-3 assembly.
+Notes: This program is written in LC-3 assembly.
 
 list of valid commands:<br />
 ADD<br />

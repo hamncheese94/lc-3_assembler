@@ -4,7 +4,7 @@ Purpose: Takes LC-3 commands as input, returns opcode.
 
 This program was written in LC-3 assembly.
 
-list of valid commands:
+list of valid commands:<br />
 ADD<br />
 AND<br />
 BR<br />

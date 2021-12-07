@@ -5,6 +5,9 @@ Purpose: Takes LC-3 commands as input, returns opcode.
 <br />
 Instructions: To use this assembler program, visit https://wchargin.com/lc3web/  (credit to William Chargin for LC-3 simulator)
 <br />
+Once inside the LC-3 simulation, select "Assemble"
+<br />
+Copy the entire contents of "project.asm" into the lc-3 assemble field.  (paste text or drag and drop file)
 
 Notes: This program is written in LC-3 assembly.
 

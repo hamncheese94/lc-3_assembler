@@ -1,5 +1,6 @@
 # lc-3_assembler
 Author: Christian Alexander
+<br />
 Purpose: Takes LC-3 commands as input, returns opcode.
 
 This program was written in LC-3 assembly.
